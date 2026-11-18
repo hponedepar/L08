@@ -1,7 +1,7 @@
 import React from 'react';
 import {View, Text, Image, StyleSheet} from 'react-native';
 import {Picker} from '@react-native-picker/picker';
-
+//
 const styles = StyleSheet.create({
     container: {
         borderWidth: 1,

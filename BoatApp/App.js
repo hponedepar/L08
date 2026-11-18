@@ -2,7 +2,7 @@ import React from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { ScrollView, Text, View, StyleSheet } from 'react-native';
 import Boat from './Boat';
-//
+////
 export default function App() {
   return (
       <View style={styles.container}>

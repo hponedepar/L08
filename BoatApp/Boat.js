@@ -15,7 +15,7 @@ const Boat = ({ name, description, picture, icon, price }) => {
         </View>
     );
 };
-//
+////
 const styles = StyleSheet.create({
     container: {
         backgroundColor: '#C0C0C0',
